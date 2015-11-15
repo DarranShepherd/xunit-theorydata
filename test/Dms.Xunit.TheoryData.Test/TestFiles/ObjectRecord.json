@@ -1,0 +1,6 @@
+﻿[
+  {
+    "$type": "Dms.Xunit.TheoryData.Test.TestParameter, Dms.Xunit.TheoryData.Test",
+    "Property":  "value"
+  }
+]

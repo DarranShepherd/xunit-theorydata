@@ -1,0 +1,13 @@
+﻿[
+  [
+    {
+      "$type": "Dms.Xunit.TheoryData.Test.TestParameter, Dms.Xunit.TheoryData.Test",
+      "Property": "value"
+    },
+    {
+      "$type": "System.Version, mscorlib",
+      "Major": 3,
+      "Minor": 4
+    }
+  ]
+]

@@ -1,0 +1,14 @@
+﻿[
+  {
+    "$type": "Dms.Xunit.TheoryData.Test.TestParameter, Dms.Xunit.TheoryData.Test",
+    "Property":  "value1"
+  },
+  {
+    "$type": "Dms.Xunit.TheoryData.Test.TestParameter, Dms.Xunit.TheoryData.Test",
+    "Property": "value2"
+  },
+    {
+    "$type": "Dms.Xunit.TheoryData.Test.TestParameter, Dms.Xunit.TheoryData.Test",
+    "Property":  "value3"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1-*",
+  "description": "Dms.Xunit.TheoryData Class Library",
+  "authors": [ "Class Library template" ],
+  "tags": [""],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "tooling": {
+    "defaultNamespace": "Dms.Xunit.TheoryData"
+  },
+
+  "dependencies": {
+    "Newtonsoft.Json": "8.0.1-beta1",
+    "xunit": "2.1.0"
+  },
+  
+  "frameworks": {
+    "dnx451": {
+      "frameworkAssemblies": {
+        "System.Reflection": "",
+        "System.Runtime": ""
+      }
+    },
+
+    "dnxcore50": {
+      "dependencies": {
+        "Microsoft.CSharp": "4.0.1-beta-*",
+        "System.Collections": "4.0.11-beta-*",
+        "System.Linq": "4.0.1-beta-*",
+        "System.Runtime": "4.0.21-beta-*",
+        "System.Threading": "4.0.11-beta-*"
+      }
+    }
+  }
+}
